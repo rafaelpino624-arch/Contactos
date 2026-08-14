@@ -1,0 +1,9 @@
+# Dependencias de Node
+frontend/node_modules/
+
+# Variables y configuraciones privadas
+.env
+.env.local
+
+# Configuración real de la base de datos
+backend/config/database.php
